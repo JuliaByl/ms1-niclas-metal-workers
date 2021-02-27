@@ -52,8 +52,8 @@ New row means it ends up under previous item. Any items described with a / betwe
 * hero image
 * header
 * short disclaimer that they do all kinds of metal work + link to contact form
-* Images (3-grid) representing each service + text and short description about service over an opaque background horizontally stretching over half of the image
-* Services: tailored solutions / renovations / rent skylift / service work / metal roofing / welding 
+* images (3-grid) representing each service + text and short description about service over an opaque background horizontally stretching over half of the image
+* services: tailored solutions / renovations / rent skylift / service work / metal roofing / welding 
 
 #### Gallery (gallery.html) 
 
@@ -61,6 +61,7 @@ New row means it ends up under previous item. Any items described with a / betwe
 * header
 * sub-header for each specific project / service that they have done
 * 3-grid image gallery under each sub-header
+* sub-headers: church roofs / welding / bigger projects
 
 #### Contact (contact.html)
 
@@ -74,6 +75,8 @@ New row means it ends up under previous item. Any items described with a / betwe
 * copyright / linkedin / facebook / trustpilot / glassdoor / Contact us to get a **free quote** + link to contact form
 
 #### Initial wireframes
+
+[You can find the wireframes here](/workspace/ms1-niclas-metal-workers/images/wireframes-nmw.png)
 
 ### Changes, Bugs + solutions
 
