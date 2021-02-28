@@ -82,3 +82,5 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 
 ### Links, inspiration and creds (if too big to mention together with the code)
 
+*Website used for creating logo: https://www.freelogodesign.org/
+
