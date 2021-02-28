@@ -76,7 +76,7 @@ New row means it ends up under previous item. Any items described with a / betwe
 
 #### Initial wireframes
 
-[You can find the wireframes here](/workspace/ms1-niclas-metal-workers/images/wireframes-nmw.png)
+You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-workers/blob/master/images/wireframes-nmw.png) or go to my images folder and open wireframes-nmw.png.
 
 ### Changes, Bugs + solutions
 
