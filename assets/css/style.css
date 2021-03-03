@@ -8,9 +8,23 @@ header{
 .logo{
     margin-top: -40px;
     margin-bottom: -40px;
+    margin-left: 10%;
 }
 
 nav a{
     text-decoration: none;
     margin-right: 10%;
+}
+
+/*-----hero image-----*/
+
+.hero-section{
+    height: 470px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.hero{
+    position: relative;
+    bottom: 450px;
 }
