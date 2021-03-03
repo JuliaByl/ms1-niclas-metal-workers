@@ -1,7 +1,11 @@
 /*-----colors-----*/
 header{
-    background-color: grey;
+    background-color: #7EC6F2;
     
+}
+
+footer{
+    background-color: #7EC6F2;
 }
 
 /*-----header-----*/
@@ -17,7 +21,6 @@ nav a{
 }
 
 /*-----hero image-----*/
-
 .hero-section{
     height: 470px;
     margin-bottom: 10px;
@@ -27,4 +30,10 @@ nav a{
 .hero{
     position: relative;
     bottom: 450px;
+}
+
+/*-----footer-----*/
+
+footer{
+    height: 120px;
 }
