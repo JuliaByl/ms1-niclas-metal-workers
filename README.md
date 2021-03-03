@@ -82,5 +82,10 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 
 ### Links, inspiration and creds (if too big to mention together with the code)
 
+* Help with general issues: https://stackoverflow.com/
+* Help with general reminders of how things work: https://www.w3schools.com/
 * Website used for creating logo: https://www.freelogodesign.org/
+* Website used for all other images: https://unsplash.com/
+* Website used for finding the correct colors: https://color.adobe.com/create/color-wheel
+
 
