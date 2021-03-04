@@ -36,12 +36,10 @@ nav a{
 
 .footer-row{
     height: 140px;
-}
-
-.social-media{
-    padding-left: 10%;
+    text-align: center;
 }
 
 .social-media a{
     text-decoration: none;
 }
+
