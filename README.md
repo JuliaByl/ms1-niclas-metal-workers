@@ -80,6 +80,9 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 
 ### Changes, Bugs + solutions
 
+* Social media links in footer: I only found facebook and linkedin icons for the social media links on fontawesome,cwhich was the library I had planned to use.
+  I will add those two for now but might be changing to a different icon library so that I can link glassdoor and trustpilot too. If not, I will have to leave them out.
+
 ### Links, inspiration and creds (if too big to mention together with the code)
 
 * Help with general issues: https://stackoverflow.com/
@@ -87,5 +90,7 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 * Website used for creating logo: https://www.freelogodesign.org/
 * Website used for all other images: https://unsplash.com/
 * Website used for finding the correct colors: https://color.adobe.com/create/color-wheel
+* https://fontawesome.com/
+
 
 
