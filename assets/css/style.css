@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Montserrat:wght@200;300;400;500&display=swap');
+
+/*-----fonts-----*/
+
+body{
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: Abel, sans-serif;
+}
+
+.btn, .menu-items{
+    font-weight: 500;
+}
+
 /*-----colors-----*/
 header{
     background-color: #F0F0F0;
