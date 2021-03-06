@@ -1,14 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Montserrat:wght@200;300;400;500&display=swap');
 
 /*-----fonts-----*/
-
 body{
-    font-family: Montserrat, sans-serif;
+    font-family: montserrat, sans-serif;
     font-weight: 400;
 }
 
 h1 {
-    font-family: Abel, sans-serif;
+    font-family: abel, sans-serif;
 }
 
 .btn, .menu-items{
@@ -16,14 +15,19 @@ h1 {
 }
 
 /*-----colors-----*/
-header{
+header, footer{
     background-color: #F0F0F0;
     
 }
 
-footer{
-    background-color: #F0F0F0;
+body, a{
+    color: #626B73;
 }
+
+a:hover {
+    color:#F2B56B;
+}
+
 
 /*-----header-----*/
 .logo{
