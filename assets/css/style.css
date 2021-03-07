@@ -54,8 +54,17 @@ nav a{
 }
 
 /*-----Index.html-----*/
-.bold-link{
+.who-are-we{
+    max-width: 468px;
+    margin: auto;
+}
+
+.who-are-we a{
     text-decoration: none;
+}
+
+.about-image{
+    background-color: black;
 }
 
 /*-----footer-----*/
