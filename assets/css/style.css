@@ -53,6 +53,11 @@ nav a{
     bottom: 450px;
 }
 
+/*-----Index.html-----*/
+.bold-link{
+    text-decoration: none;
+}
+
 /*-----footer-----*/
 
 .footer-row{
