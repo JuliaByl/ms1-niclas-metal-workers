@@ -16,7 +16,7 @@ h1 {
 
 /*-----colors-----*/
 header, footer{
-    background-color: #F0F0F0;
+    background-color: rgba(240,240,240,0.3);
     
 }
 
@@ -27,6 +27,17 @@ body, a{
 a:hover {
     color:#F2B56B;
 }
+
+h1{
+    color: #BF7E04;
+}
+
+.who-are-we{
+    background-color: #fff;
+}
+
+/*-----general-----*/
+
 
 
 /*-----header-----*/
@@ -43,20 +54,29 @@ nav a{
 
 /*-----hero image-----*/
 .hero-section{
-    height: 470px;
+    height: 650px;
     margin-bottom: 10px;
     overflow: hidden;
+    margin-top: -140px;
 }
 
 .hero{
     position: relative;
     bottom: 450px;
+    z-index: -1;
 }
 
 /*-----Index.html-----*/
+h1{
+    margin-bottom: 20px;
+}
+
 .who-are-we{
     margin: auto;
     margin-bottom: 30px;
+    margin-top: -50px;
+    position: relative;
+    padding: 10px;
 }
 
 .who-are-we a{
