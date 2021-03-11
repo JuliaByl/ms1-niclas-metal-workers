@@ -80,8 +80,14 @@ h1{
     text-decoration: none;
 }
 
+.about-image-section{
+    overflow: hidden;
+    height: 370px;
+}
+
 .about-image{
-    background-color: black;
+    position: relative;
+    right: 200px;
 }
 
 /*-----footer-----*/
