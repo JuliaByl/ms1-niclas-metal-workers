@@ -101,6 +101,11 @@ h1{
     max-height: 400px;
     overflow: hidden;
 }
+
+.gallery-tractor{
+    position: relative;
+    bottom: 140px;
+}
 /*-----footer-----*/
 
 .footer-row{
