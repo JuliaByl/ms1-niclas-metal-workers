@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Montserrat:wght@200;300;400;500&display=swap');
 
 /*-----fonts-----*/
+
 body{
     font-family: montserrat, sans-serif;
     font-weight: 400;
@@ -41,6 +42,7 @@ h1{
 
 
 /*-----header-----*/
+
 .logo{
     margin-top: -30px;
     margin-bottom: -30px;
@@ -53,6 +55,7 @@ nav a{
 }
 
 /*-----hero image-----*/
+
 .hero-section{
     height: 650px;
     margin-bottom: 10px;
@@ -67,6 +70,7 @@ nav a{
 }
 
 /*-----index.html-----*/
+
 h1{
     margin-bottom: 20px;
 }
@@ -106,6 +110,20 @@ h1{
     position: relative;
     bottom: 140px;
 }
+
+/*-----services.html-----*/
+
+.services-image-row .col{
+    height: 400px;
+    width: 100px;
+    overflow: hidden;
+}
+
+.services-image-row img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
 /*-----footer-----*/
 
 .footer-row{
