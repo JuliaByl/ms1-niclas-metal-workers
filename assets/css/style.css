@@ -37,9 +37,9 @@ h1{
     background-color: #fff;
 }
 
-/*-----general-----*/
-
-
+.services-text-div{
+    background-color: tomato;
+}
 
 /*-----header-----*/
 
@@ -119,12 +119,13 @@ h1{
 }
 
 .services-image-div{
-    height: 400px;
-    width: 400px;
+    height: 288px;
     overflow: hidden;
 }
 
-
+.services-text-div{
+    z-index: 1;
+}    
 
 /*-----footer-----*/
 
