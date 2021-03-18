@@ -113,9 +113,18 @@ h1{
 
 /*-----services.html-----*/
 
-.services-image-row .col{
-    height: 400px;
+.services-image-row img{
+    width: auto;
+    height: auto;
 }
+
+.services-image-div{
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+}
+
+
 
 /*-----footer-----*/
 
