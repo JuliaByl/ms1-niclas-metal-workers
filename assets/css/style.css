@@ -113,20 +113,30 @@ h1{
 
 /*-----services.html-----*/
 
-.services-image-row img{
+.services-image-row{
+    height:288px;
+}
+
+.services-image-row .col-4{
+    height:100%;
+    padding:12px;
+}
+
+.services-image-div img{
     width: auto;
     height: auto;
+    z-index: -1;
 }
 
 .services-image-div{
-    height: 288px;
+    height: 100%;
     overflow: hidden;
 }
 
 .services-text-div{
-    z-index: 1;
-}    
-
+    position: relative;
+    margin-top: -144px;
+}
 /*-----footer-----*/
 
 .footer-row{
