@@ -33,8 +33,12 @@ h1{
     color: #BF7E04;
 }
 
-.services-text-div h2{
-    background-color:#F2B705;
+h2{
+    color: #fff;
+}
+
+h2{
+    background-color:#BF7E04;
 }
 
 .services-text-div{
@@ -42,13 +46,20 @@ h1{
 }
 
 .services-text-div{
-    background-color:rgba(191,126,4,0.5);
+    background-color:rgba(242,183,5,0.5);
 }
 
 /*-----images border-radius-----*/
 
-.about-image-div, .gallery-image-row img, .services-image-div, .services-text-div{
+.about-image-div, .gallery-image-row img, .services-image-div, h2, .services-text-div{
     border-radius: 3px;
+}
+
+/*-----general-----*/
+
+h1, h2{
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 /*-----header-----*/
@@ -77,12 +88,6 @@ nav a{
     position: relative;
     bottom: 450px;
     z-index: -1;
-}
-
-/*-----general-----*/
-
-h1, h2{
-    margin-bottom: 20px;
 }
 
 /*-----index.html-----*/
