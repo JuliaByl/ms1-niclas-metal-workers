@@ -16,7 +16,7 @@ h1, h2 {
 }
 
 /*-----colors-----*/
-header, footer{
+header, footer, .services-text-div{
     background-color: rgba(240,240,240,0.3);
     
 }
@@ -33,12 +33,22 @@ h1{
     color: #BF7E04;
 }
 
-.who-are-we{
-    background-color: #fff;
+.services-text-div h2{
+    background-color:#F2B705;
 }
 
 .services-text-div{
-    background-color: tomato;
+    color: #fff;
+}
+
+.services-text-div{
+    background-color:rgba(191,126,4,0.5);
+}
+
+/*-----images border-radius-----*/
+
+.about-image-div, .gallery-image-row img, .services-image-div, .services-text-div{
+    border-radius: 3px;
 }
 
 /*-----header-----*/
@@ -84,7 +94,7 @@ h1{
     text-decoration: none;
 }
 
-.about-image-section{
+.about-image-div{
     overflow: hidden;
     height: 370px;
 }
@@ -136,6 +146,7 @@ h1{
 .services-text-div{
     position: relative;
     margin-top: -144px;
+    height: 144px;
 }
 /*-----footer-----*/
 
