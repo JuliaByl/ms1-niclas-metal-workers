@@ -79,11 +79,13 @@ nav a{
     z-index: -1;
 }
 
-/*-----index.html-----*/
+/*-----general-----*/
 
 h1, h2{
     margin-bottom: 20px;
 }
+
+/*-----index.html-----*/
 
 .who-are-we{
     margin: auto;
