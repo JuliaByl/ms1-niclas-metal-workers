@@ -90,6 +90,10 @@ nav a{
     z-index: -1;
 }
 
+.hero img {
+    min-width: 100%;
+}
+
 /*-----index.html-----*/
 
 .who-are-we{
