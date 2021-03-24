@@ -103,7 +103,7 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 <hr>
 <hr>
 
-#### Changes, Bugs + solutions
+### Changes, Bugs + solutions
 
 ##### Social media links in footer
 I only found facebook and linkedin icons for the social media links on fontawesome,cwhich was the library I had planned to use.
@@ -111,7 +111,7 @@ I will add those two for now but might be changing to a different icon library s
 
 <hr>
 
-##### Hero image not responsive
+##### ~~Hero image not responsive~~
 
 I did not immediately notice that the hero image was not covering the entire screen horizontally on bigger screens than the one that I have been using. Will make it more responsive. 
 *screenshot of issue to be added*
