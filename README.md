@@ -119,6 +119,13 @@ I did not immediately notice that the hero image was not covering the entire scr
 *Fixed issue by adding **min-width: 100%;** to img element in the hero image section.*
 
 <hr>
+
+#### Responsiveness in .row classes across page
+
+I have been adding more .row classes than what is neccessary, which have been affecting the responsivenes of the page. It currently does not look good when changing to smaller screen sizes.
+*example image to be added soon*
+
+<hr>
 <hr>
 
 ### Links, inspiration and creds (if too big to mention together with the code)
