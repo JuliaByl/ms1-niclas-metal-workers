@@ -125,6 +125,8 @@ I did not immediately notice that the hero image was not covering the entire scr
 I have been adding more .row classes than what is neccessary, which have been affecting the responsivenes of the page. It currently does not look good when changing to smaller screen sizes.
 *example image to be added soon*
 
+*index.html + gallery.html partially done. Work on services.html next time.*
+
 <hr>
 <hr>
 
