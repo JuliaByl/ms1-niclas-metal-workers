@@ -110,10 +110,11 @@ nav a{
     height: 370px;
 }
 
-.about-image{
+.about-image-div img{
     position: relative;
     right: 200px;
 }
+
 
 /*-----gallery.html-----*/
 
