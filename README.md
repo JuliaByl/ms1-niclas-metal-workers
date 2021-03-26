@@ -113,8 +113,8 @@ I will add those two for now but might be changing to a different icon library s
 
 #### ~~Hero image not responsive~~
 
-I did not immediately notice that the hero image was not covering the entire screen horizontally on bigger screens than the one that I have been using. Will make it more responsive. 
-*screenshot of issue to be added*
+I did not immediately notice that the hero image was not covering the entire screen horizontally on screens bigger than the one that I have been using. I will make it more responsive. 
+![screenshot of hero image not filling up the entire right side of the page](assets/images/README-img/hero-image-issue.png)
 
 *Fixed issue by adding **min-width: 100%;** to img element in the hero image section.*
 
