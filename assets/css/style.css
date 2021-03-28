@@ -183,8 +183,12 @@ nav a{
     padding: 15px;
 }
 
-.form-row .col-6{
+.form-row .col-6, .form-row .col-12{
     padding-bottom: 15px;
+}
+
+input[type=submit]{
+    width: auto;
 }
 
 /*-----footer-----*/
