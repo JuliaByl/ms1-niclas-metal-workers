@@ -49,6 +49,17 @@ h2{
     background-color:rgba(242,183,5,0.5);
 }
 
+.contact-container .col-4{
+    background-color: #626B73;
+    color: #fff;
+}
+
+.contact-container .col-8{
+    background-color: #F2B705;
+    border-color: #F2B705;
+    color: #fff;
+}
+
 /*-----images border-radius-----*/
 
 .about-image-div, .gallery-image-row img, .services-image-div, h2, .services-text-div{
@@ -164,6 +175,17 @@ nav a{
 
 /*-----contact.html-----*/
 
+.form-row input{
+  width: 85%;  
+}
+
+.contact-container, .col-4, .col-8{
+    padding: 15px;
+}
+
+.form-row .col-6{
+    padding-bottom: 15px;
+}
 
 /*-----footer-----*/
 
