@@ -179,7 +179,7 @@ nav a{
   width: 85%;  
 }
 
-.contact-container, .col-4, .col-8{
+.contact-container, .contact-container .col-4, .contact-container .col-8{
     padding: 15px;
 }
 
