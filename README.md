@@ -128,6 +128,17 @@ I have been adding more .row classes than what is neccessary, which have been af
 *Fixed issue by having one container + row per section, and size the columns so that they would position themselves correctly*
 
 <hr>
+
+#### Hamburger menu for smaller screen sizes
+
+After a discussion with my mentor, I decided to change my plan for the menu on smaller screen sizes. 
+It looks more sleek to have a hamburger menu on smaller screens. 
+
+Image is showing the menu before changing to new layout.
+
+![screenshot of menu items before change to small screen hamburger menu](assets/images/README-img/responsive-menu-issue.png)
+
+<hr>
 <hr>
 
 ### Links, inspiration and creds (if too big to mention together with the code)
