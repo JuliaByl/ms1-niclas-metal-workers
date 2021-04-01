@@ -147,12 +147,8 @@ nav a{
 
 /*-----services.html-----*/
 
-.services-image-row{
-    height:288px;
-}
-
-.services-image-row .col-lg-4{
-    height:100%;
+.services-image-row .col-md-4{
+    height: 288px;
     padding:12px;
 }
 
