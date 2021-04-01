@@ -120,12 +120,12 @@ I did not immediately notice that the hero image was not covering the entire scr
 
 <hr>
 
-#### Responsiveness in .row classes across page
+#### ~~Responsiveness in .row classes across page~~
 
 I have been adding more .row classes than what is neccessary, which have been affecting the responsivenes of the page. It currently does not look good when changing to smaller screen sizes.
-*example image to be added soon*
+![code showing multiple .row classes](assets/images/README-img/responsive-rows-issue.png)
 
-*index.html + gallery.html partially done. Work on services.html next time.*
+*Fixed issue by having one container + row per section, and size the columns so that they would position themselves correctly*
 
 <hr>
 <hr>
