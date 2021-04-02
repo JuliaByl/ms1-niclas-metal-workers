@@ -1,0 +1,20 @@
+/*-----index.html-----*/
+
+.who-are-we{
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.who-are-we a{
+    text-decoration: none;
+}
+
+.about-image-div{
+    overflow: hidden;
+    height: 370px;
+}
+
+.about-image-div img{
+    position: relative;
+    right: 300px;
+}

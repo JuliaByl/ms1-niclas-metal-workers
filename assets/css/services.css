@@ -1,0 +1,27 @@
+/*-----services.html-----*/
+
+.services-image-row .col-md-4{
+    height: 288px;
+    padding:12px;
+}
+
+.services-image-div img{
+    width: auto;
+    height: auto;
+    z-index: -1;
+}
+
+.services-image-div{
+    height: 100%;
+    overflow: hidden;
+}
+
+.services-text-div h2, .services-text-div p{
+    margin: 0;
+}
+
+.services-text-div{
+    position: relative;
+    top: -60%;
+    height: 60%;
+}
