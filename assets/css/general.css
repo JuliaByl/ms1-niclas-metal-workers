@@ -60,6 +60,14 @@ h2{
     color: #fff;
 }
 
+.dropdown-item{
+    color: #fff;
+}
+
+.dropdown-menu{
+    background-color: #626B73;
+}
+
 .dropdown button{
     color: #626B73;
 }
@@ -95,6 +103,19 @@ nav a{
     position: fixed;
     margin-right: 4%;
     z-index: 1;
+}
+
+.dropdown-menu{
+    padding: 0;
+    border: none;
+    margin-top: 40%;
+    margin-right: 4%;
+    min-width: fit-content;
+}
+
+.dropdown-item{
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 /*-----hero image-----*/
