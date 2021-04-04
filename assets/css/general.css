@@ -21,11 +21,11 @@ header, footer, .services-text-div{
     
 }
 
-body, a{
+body, a, .fas{
     color: #626B73;
 }
 
-a:hover, .fas:hover{
+a:hover, .dropdown button:hover, .fas:active{
     color:#F2B705;
 }
 

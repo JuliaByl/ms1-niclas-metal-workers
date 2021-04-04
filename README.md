@@ -103,40 +103,20 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 <hr>
 <hr>
 
-### Changes, Bugs + solutions
+### Bugs
+*links lead to GitHub issues*
 
-#### Social media links in footer
-I only found facebook and linkedin icons for the social media links on fontawesome,cwhich was the library I had planned to use.
-I will add those two for now but might be changing to a different icon library so that I can link glassdoor and trustpilot too. If not, I will have to leave them out.
+#### Open bugs
 
+* [Social media links in footer](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/2#issue-849860726)
+*[Image carousel not manually scrolling through images](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/6#issue-849866242)
 <hr>
 
-#### ~~Hero image not responsive~~
+#### Closed bugs
 
-I did not immediately notice that the hero image was not covering the entire screen horizontally on screens bigger than the one that I have been using. I will make it more responsive. 
-![screenshot of hero image not filling up the entire right side of the page](assets/images/README-img/hero-image-issue.png)
-
-*Fixed issue by adding **min-width: 100%;** to img element in the hero image section.*
-
-<hr>
-
-#### ~~Responsiveness in .row classes across page~~
-
-I have been adding more .row classes than what is neccessary, which have been affecting the responsivenes of the page. It currently does not look good when changing to smaller screen sizes.
-![code showing multiple .row classes](assets/images/README-img/responsive-rows-issue.png)
-
-*Fixed issue by having one container + row per section, and size the columns so that they would position themselves correctly*
-
-<hr>
-
-#### Hamburger menu for smaller screen sizes
-
-After a discussion with my mentor, I decided to change my plan for the menu on smaller screen sizes. 
-It looks more sleek to have a hamburger menu on smaller screens. 
-
-Image is showing the menu before changing to new layout.
-
-![screenshot of menu items before change to small screen hamburger menu](assets/images/README-img/responsive-menu-issue.png)
+* [Hero image not responsive](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/3#issue-849861675)
+* [Responsiveness in .row classes across page](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/4#issue-849863493)
+* [Change to hamburger menu for smaller screen sizes](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/5#issue-849864242)
 
 <hr>
 <hr>
@@ -148,7 +128,8 @@ Image is showing the menu before changing to new layout.
 * Website used for creating logo: https://www.freelogodesign.org/
 * Website used for all other images: https://unsplash.com/
 * Website used for finding the correct colors: https://color.adobe.com/create/color-wheel
-* https://fontawesome.com/
+* Website used for icons across page ex. Facebook and Linkedin: https://fontawesome.com/
+* Website used for custom fonts: https://fonts.google.com/
 
 
 
