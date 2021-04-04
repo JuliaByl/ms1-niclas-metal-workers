@@ -109,7 +109,7 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 #### Open bugs
 
 * [Social media links in footer](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/2#issue-849860726)
-*[Image carousel not manually scrolling through images](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/6#issue-849866242)
+* [Image carousel not manually scrolling through images](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/6#issue-849866242)
 <hr>
 
 #### Closed bugs
