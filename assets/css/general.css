@@ -51,7 +51,7 @@ h4{
     background-color:rgba(242,183,5,0.5);
 }
 
-.contact-container .col-md-4{
+.contact-container .col-md-4, .card{
     background-color: #626B73;
     color: #fff;
 }
@@ -76,7 +76,7 @@ h4{
 
 /*-----images border-radius-----*/
 
-.about-image-div, .gallery-image-row img, .services-image-div, h4, .services-text-div{
+.gallery-image-row img, .services-image-div, h4, .services-text-div{
     border-radius: 3px;
 }
 
