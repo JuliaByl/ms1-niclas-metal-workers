@@ -33,11 +33,11 @@ h1{
     color: #BF7E04;
 }
 
-h2{
+h4{
     color: #fff;
 }
 
-h2{
+h4{
     background-color:#BF7E04;
 }
 
@@ -49,12 +49,12 @@ h2{
     background-color:rgba(242,183,5,0.5);
 }
 
-.contact-container .col-4{
+.contact-container .col-md-4{
     background-color: #626B73;
     color: #fff;
 }
 
-.contact-container .col-8{
+.contact-container .col-md-8{
     background-color: #F2B705;
     border-color: #F2B705;
     color: #fff;
@@ -74,7 +74,7 @@ h2{
 
 /*-----images border-radius-----*/
 
-.about-image-div, .gallery-image-row img, .services-image-div, h2, .services-text-div{
+.about-image-div, .gallery-image-row img, .services-image-div, h4, .services-text-div{
     border-radius: 3px;
 }
 
@@ -89,7 +89,7 @@ h2{
     display: inline-block;
 }
 
-h1, h2{
+h1, h4{
     margin-bottom: 20px;
     margin-top: 20px;
 }
