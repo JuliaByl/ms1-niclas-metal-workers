@@ -9,7 +9,12 @@
 }
 
 .form-row input, textarea{
-  width: 85%;  
+  width: 85%; 
+}
+
+.form-row label{
+    margin-bottom: -5px;
+    margin-top: 10px;
 }
 
 .contact-container, .contact-container .col-md-4, .contact-container .col-md-8{
