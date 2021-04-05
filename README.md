@@ -109,7 +109,7 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 #### Open bugs
 
 * [Social media links in footer](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/2#issue-849860726)
-* [Image carousel not manually scrolling through images](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/6#issue-849866242)
+
 <hr>
 
 #### Closed bugs
@@ -117,6 +117,7 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 * [Hero image not responsive](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/3#issue-849861675)
 * [Responsiveness in .row classes across page](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/4#issue-849863493)
 * [Change to hamburger menu for smaller screen sizes](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/5#issue-849864242)
+* [Image carousel not manually scrolling through images](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/6#issue-849866242)
 
 <hr>
 <hr>
