@@ -21,9 +21,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*-----colors-----*/
-header, footer, .services-text-div{
-    background-color: rgba(240,240,240,0.3);
-    
+.menu-items, footer, .services-text-div{
+    background-color: rgba(240,240,240,0.9);
 }
 
 body, a, .fas{
@@ -74,9 +73,9 @@ h4{
     color: #626B73;
 }
 
-/*-----images border-radius-----*/
+/*-----matching border-radius-----*/
 
-.gallery-image-row img, .services-image-div, h4, .services-text-div{
+.menu-items, .gallery-image-row img, .services-image-div, h4, .services-text-div{
     border-radius: 3px;
 }
 
@@ -102,6 +101,10 @@ h1, h4{
 nav a{
     text-decoration: none;
     margin-right: 10%;
+}
+
+.menu-items{
+    padding: 3%;
 }
 
 .dropdown {
@@ -147,10 +150,12 @@ nav a{
 /*-----footer-----*/
 
 .footer-row{
-    height: 140px;
+    height: fit-content;
     text-align: center;
     margin-bottom: 0;
     margin-top: 30px;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 .social-media a{
