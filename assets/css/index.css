@@ -11,8 +11,8 @@
 
 .card{
     overflow: hidden;
-    max-height: fit-content;
-    max-width: 400px;
+    height: 450px;
+    width: 400px;
     display: inline-block;
 }
 
