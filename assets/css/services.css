@@ -1,11 +1,11 @@
 /*-----services.html-----*/
 
-.services-image-row .col-4, .carousel-div{
+.services-image-row .col-4{
     height: 288px;
     padding:12px;
 }
 
-.services-image-div img, .carousel-div img{
+.services-image-div img{
     width: auto;
     height: auto;
     z-index: -1;
@@ -29,3 +29,6 @@
     margin-right: auto;
 }
 
+.carousel-div{
+    height: 50vh;
+}
