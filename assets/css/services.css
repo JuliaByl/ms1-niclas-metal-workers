@@ -1,31 +1,20 @@
 /*-----services.html-----*/
 
-.services-image-div{
-    padding-top: 15px;
-}
-
-.services-image-row .col-4, .services-image-div{
-    height: 30vh;
-    overflow: hidden;
-}
-
-.services-image-div img{
-    z-index: -1;
-} 
-
-.services-text-div h2, .services-text-div p{
-    margin: 0;
+.services-image-row .col-lg-4{
+    padding: 15px;
 }
 
 .services-text-div{
     position: relative;
-    top: -50%;
-    height: 50%;
+    top: 43%;
+    height: 57%;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
 
-.carousel-div, .carousel-div .services-image-div{
+.carousel-item, .services-div{
     height: 50vh;
-    
+    background-size: cover;
+    background-position-y: center;
 }
