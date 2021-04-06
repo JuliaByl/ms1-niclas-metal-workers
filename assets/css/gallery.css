@@ -1,7 +1,7 @@
 /*-----gallery.html-----*/
 
 .gallery-image-row .col-lg-4{
-    max-height: 50vh;
+    height: 50vh;
     overflow: hidden;
 }
 
