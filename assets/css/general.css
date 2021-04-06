@@ -108,8 +108,7 @@ nav a{
 }
 
 .dropdown {
-    right: 0;
-    margin-right: -8px;
+    right: -5px;
     position: fixed;
     z-index: 2;
 }
