@@ -1,18 +1,8 @@
 /*-----gallery.html-----*/
 
-.gallery-image-row img{
-    max-width: 100%;
-    max-height: 100vh;
-}
-
 .gallery-image-row .col-lg-4{
     max-height: 50vh;
     overflow: hidden;
-}
-
-.gallery-tractor{
-    position: relative;
-    bottom: 140px;
 }
 
 .carousel-inner{
