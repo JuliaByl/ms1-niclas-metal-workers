@@ -1,12 +1,12 @@
 /*-----gallery.html-----*/
 
-.gallery-image-row .col-lg-4{
+.col-4{
     height: 50vh;
     overflow: hidden;
 }
 
-.carousel-inner{
-    height: 50vh;
+.col-12{
+    margin-top: 20px;
 }
 
 
