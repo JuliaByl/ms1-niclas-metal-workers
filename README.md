@@ -4,7 +4,7 @@
 
 ## Why am I making this?
 
-Niclas Metal Workers is, while built for a fictional company in north Dublin, based on real requests from my dad, who has a very outdated website with code that doesn't work like it used to. 
+Niclas Metalworkers is, while built for a fictional company in north Dublin, based on real preferences from my father, who currently has a company website he is not satisfied with.
 In short: it doesn't mirror his company's professionalism and needs an update. You can find a link to his current website [here](http://plat-niclas.com/).
 Please note that permission has been given to share his website in the README.
 
@@ -107,8 +107,8 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 *links lead to GitHub issues*
 
 #### Open bugs
+*No open bugs*
 
-* [Social media links in footer](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/2#issue-849860726)
 
 <hr>
 
@@ -118,19 +118,30 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 * [Responsiveness in .row classes across page](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/4#issue-849863493)
 * [Change to hamburger menu for smaller screen sizes](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/5#issue-849864242)
 * [Image carousel not manually scrolling through images](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/6#issue-849866242)
+* [Social media links in footer](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues/2#issue-849860726)
 
 <hr>
 <hr>
 
 ### Links, inspiration and creds
 
-* Help with general issues: https://stackoverflow.com/
-* Help with general reminders of how things work: https://www.w3schools.com/
-* Website used for creating logo: https://www.freelogodesign.org/
-* Websites used for images: https://unsplash.com/ and https://pixabay.com/photos/search/welding/?orientation=vertical
-* Website used for finding the correct colors: https://color.adobe.com/create/color-wheel
-* Website used for icons across page ex. Facebook and Linkedin: https://fontawesome.com/
-* Website used for custom fonts: https://fonts.google.com/
+#### General
 
+* Help with general issues: [Stack overflow](https://stackoverflow.com/) and [CSS-Tricks](https://css-tricks.com/)
+* Help with general reminders of how things work: [W3schools](https://www.w3schools.com/)
+* Website used for creating logo: [Freelogodesign](https://www.freelogodesign.org/)
+* Websites used for images: [Unsplash](https://unsplash.com/) and [Pixabay](https://pixabay.com/photos/search/welding/?orientation=vertical)
+* Website used for finding the correct colors: [Adobe color](https://color.adobe.com/create/color-wheel)
+* Website used for icons across page ex. Facebook and Linkedin: [Fontawesome](https://fontawesome.com/)
+* Website used for custom fonts: [Google fonts](https://fonts.google.com/)
+* Website used for help with responsive design: [Bootstrap](https://getbootstrap.com/)
+* Platformsed for developing my project: [Gitpod](https://www.gitpod.io/)
+* Platform used for hosting my project:[Github](https://github.com/)
+* Application used for my wireframes: [Balsamiq] (https://balsamiq.com/wireframes/)
+<hr>
 
+#### Links used to test website
 
+* Web acessibility tool: [Wave Webaim](https://wave.webaim.org/)
+* CSS validator: [W3 CSS validator](http://jigsaw.w3.org/css-validator/)
+* HTML validator: [W3 CSS validator](https://validator.w3.org/)
