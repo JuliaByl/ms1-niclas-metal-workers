@@ -11,7 +11,7 @@ p, li{
     font-size: small;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6{
     font-family: abel, sans-serif;
     font-weight: 500;
 }
@@ -73,9 +73,15 @@ h4, li{
     color: #626B73;
 }
 
+.fa-chevron-right, .fa-chevron-left{
+    color: #fff;
+    background-color:#626B73;
+    opacity: none;
+}
+
 /*-----matching border-radius-----*/
 
-.menu-items, .gallery-image-row img, .services-image-div, h4, .services-text-div, li, .locations-div, .col-md-4, iframe{
+.menu-items, .gallery-image-row img, .services-image-div, h4, .services-text-div, li, .locations-div, .col-md-4, iframe, .fas{
     border-radius: 3px;
 }
 
@@ -93,6 +99,18 @@ h1, h4{
 .container img{
     max-width: 100%;
     height: auto;
+}
+
+.fa-chevron-right, .fa-chevron-left{
+    padding: 3px;
+}
+
+.fa-chevron-right{
+    margin-right: -40px;
+}
+
+.fa-chevron-left{
+    margin-left: -40px;
 }
 
 /*-----header-----*/
