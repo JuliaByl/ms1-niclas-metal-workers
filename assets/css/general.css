@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6, b{
     background-color: rgba(240,240,240,0.9);
 }
 
-body, a, .fas{
+body, a, .fas, .dropdown-button{
     color: #626B73;
 }
 
@@ -67,10 +67,6 @@ h4, li{
 
 .dropdown-menu{
     background-color: #626B73;
-}
-
-.dropdown button{
-    color: #626B73;
 }
 
 .fa-chevron-right, .fa-chevron-left{
