@@ -1,5 +1,3 @@
-*work in progress*
-
 # Niclas Metal Workers
 
 ## Why am I making this?
@@ -16,7 +14,7 @@ Please note that permission has been given to share his website in the README.
 #### As an owner of the website, I want to...
 
 1. Make it **clear** to the users what my website is about
-2. Mirror my company's **proffesionalism** through smart color picks and a sleek but inviting design 
+2. Mirror my company's **professionalism** through smart color picks and a sleek but inviting design 
 3. Show off my **versatility** through many images as well as informational text showing the different kinds of services I offer
 4. Make sure customers know they can **contact the company with any ideas**, even if it's not mentioned as a service on the page, through multiple call to action buttons and a contact form
 5. Target a wide audience, **through smart UX**
@@ -28,7 +26,7 @@ Please note that permission has been given to share his website in the README.
 1. Understand from the start what the company offers through a **good introduction** on main page
 2. Feel like it's not a hassle to find information, through **easy and clear navigation**
 3. Feel like I can **trust** the contractor through a good first impression
-4. Find proof that the company can handle smaller **private customers as well as big companies and cooperate with other contractors**, through documentation of previous works and access to reviews. 
+4. Find proof that the company can handle smaller **private customers as well as big companies and cooperate with other contractors**, through documentation of previous works and access to reviews 
 
 <hr>
 <hr>
@@ -36,7 +34,7 @@ Please note that permission has been given to share his website in the README.
 ### Features of the website
 *This is the initial plan, if any changes occur to the design and layout, that will be put further down*
 
-Across the entire page, everything is going to be styled using thirds, which is inspired by the Resume lesson from Code Insitiute.
+Across the entire page, everything is going to be styled using thirds, which is inspired by the Resume lesson from Code Institute.
 Everything inside the header and body will be adhering to this as much as possible on big, medium and small screens. 
 When not possible, they will be placed underneath each other instead.
 This description is for a big screen layout. Please see wireframes for different screen size variations.
@@ -109,22 +107,22 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 
 #### Index.html
 
-I decided to change the layout for index.html because it looks much better this way, and some if my initial text sesions could be put in different sections of the page instead.
+I decided to change the layout for index.html because it looks much better this way, and some of my initial text sections could be put in different sections of the page instead.
 ![Image showing the design change of index.html](assets/images/README-img/index.html-change.png)
 
 <hr>
 
 #### Services.html
 
-Instead of doing a 3-grid on both large and medium screens sizes, I decided to have 2 images vertically on medium screen sizes.
-[Image showing large screen size of services.html](assets/images/README-img/services.html-change1.png)
-[Image showing medium screen size of services.html](assets/images/README-img/services.html-change2.png)
+Instead of doing a 3-grid on both large and medium screen sizes, I decided to have 2 images vertically on medium screen sizes.
+![Image showing large screen size of services.html](assets/images/README-img/services.html-change1.png)
+![Image showing medium screen size of services.html](assets/images/README-img/services.html-change2.png)
 
 <hr>
 <hr>
 
 ### Bugs
-*links lead to GitHub issues*
+Please find all bugs [here](https://github.com/JuliaByl/ms1-niclas-metal-workers/issues)
 
 #### Open bugs
 *No open bugs*
@@ -157,7 +155,7 @@ Instead of doing a 3-grid on both large and medium screens sizes, I decided to h
 * Website used for help with responsive design: [Bootstrap](https://getbootstrap.com/)
 * Platformsed for developing my project: [Gitpod](https://www.gitpod.io/)
 * Platform used for hosting my project:[Github](https://github.com/)
-* Application used for my wireframes: [Balsamiq] (https://balsamiq.com/wireframes/)
+* Application used for my wireframes: [Balsamiq](https://balsamiq.com/wireframes/)
 <hr>
 
 #### Links used to test website
