@@ -7,7 +7,7 @@ body{
     font-weight: 300;
 }
 
-p{
+p, li{
     font-size: small;
 }
 
@@ -37,7 +37,7 @@ h1{
     color: #BF7E04;
 }
 
-h4{
+h4, li{
     color: #fff;
     background-color:#BF7E04;
 }
@@ -55,7 +55,7 @@ h4{
     color: #fff;
 }
 
-.contact-container .col-md-8{
+.contact-container .col-md-8, .locations-div{
     background-color: #F2B705;
     border-color: #F2B705;
     color: #fff;
@@ -75,7 +75,7 @@ h4{
 
 /*-----matching border-radius-----*/
 
-.menu-items, .gallery-image-row img, .services-image-div, h4, .services-text-div{
+.menu-items, .gallery-image-row img, .services-image-div, h4, .services-text-div, li, .locations-div{
     border-radius: 3px;
 }
 
