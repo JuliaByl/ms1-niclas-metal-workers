@@ -11,7 +11,7 @@ p, li{
     font-size: small;
 }
 
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6, b{
     font-family: abel, sans-serif;
     font-weight: 500;
 }
@@ -76,7 +76,6 @@ h4, li{
 .fa-chevron-right, .fa-chevron-left{
     color: #fff;
     background-color:#626B73;
-    opacity: none;
 }
 
 /*-----matching border-radius-----*/

@@ -122,12 +122,12 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 <hr>
 <hr>
 
-### Links, inspiration and creds (if too big to mention together with the code)
+### Links, inspiration and creds
 
 * Help with general issues: https://stackoverflow.com/
 * Help with general reminders of how things work: https://www.w3schools.com/
 * Website used for creating logo: https://www.freelogodesign.org/
-* Website used for all other images: https://unsplash.com/
+* Websites used for images: https://unsplash.com/ and https://pixabay.com/photos/search/welding/?orientation=vertical
 * Website used for finding the correct colors: https://color.adobe.com/create/color-wheel
 * Website used for icons across page ex. Facebook and Linkedin: https://fontawesome.com/
 * Website used for custom fonts: https://fonts.google.com/
