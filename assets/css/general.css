@@ -75,7 +75,7 @@ h4, li{
 
 /*-----matching border-radius-----*/
 
-.menu-items, .gallery-image-row img, .services-image-div, h4, .services-text-div, li, .locations-div{
+.menu-items, .gallery-image-row img, .services-image-div, h4, .services-text-div, li, .locations-div, .col-md-4, iframe{
     border-radius: 3px;
 }
 
