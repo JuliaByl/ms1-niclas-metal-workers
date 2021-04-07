@@ -103,6 +103,26 @@ You can find the wireframes [here](https://github.com/JuliaByl/ms1-niclas-metal-
 <hr>
 <hr>
 
+### The bigest changes to my design
+
+<hr>
+
+#### Index.html
+
+I decided to change the layout for index.html because it looks much better this way, and some if my initial text sesions could be put in different sections of the page instead.
+![Image showing the design change of index.html](assets/images/README-img/index.html-change.png)
+
+<hr>
+
+#### Services.html
+
+Instead of doing a 3-grid on both large and medium screens sizes, I decided to have 2 images vertically on medium screen sizes.
+[Image showing large screen size of services.html](assets/images/README-img/services.html-change1.png)
+[Image showing medium screen size of services.html](assets/images/README-img/services.html-change2.png)
+
+<hr>
+<hr>
+
 ### Bugs
 *links lead to GitHub issues*
 
